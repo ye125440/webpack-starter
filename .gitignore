@@ -1,0 +1,17 @@
+# Dependency directory
+node_modules
+
+# output
+dist
+next-env.d.ts
+
+# log
+logs
+.vscode/settings.json
+
+# test
+coverage
+dwt-cases.yml
+dwt-junit.xml
+dwt-reporter.html
+dwt-result.json
